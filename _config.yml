@@ -16,7 +16,7 @@ timezone: America/Lima
 
 title: Percy Garcia # the main title
 
-tagline: Junior Penetration tester | Offensive Security Student | Network Enginner # it will display as the subtitle
+tagline: Junior Penetration tester | Offensive Security Student | eJPTv2 | Network Support Enginner # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: MrSLAAC
+  name: Percy Garcia
   #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D4E03AQEWixZ4VGwGxw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1730404657447?e=1735776000&v=beta&t=WLNt7ot9Zt-O_2QVfzLWpsP7YxXN3FCEMl7qGvj1_Es
+avatar: https://avatars.githubusercontent.com/u/106538662?s=400&u=7660098bd0e69c11382b83a9902138447046d19e&v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
